@@ -14,20 +14,6 @@ The Tiny-ImageNet dataset is a subset of the larger ImageNet dataset, consisting
 
 The project is divided into several exercises, each with the goal of improving the image classification model.
 
-### Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rickil/pytorch_deep-learning.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd pytorch_deep-learning
-   ```
-
-3. Follow the instructions in the project documentation to set up your environment and execute the code.
-
 ### Important Note
 
 - The Tiny-ImageNet dataset provides a challenging yet valuable dataset for training and testing the model.
