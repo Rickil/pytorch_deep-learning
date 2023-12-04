@@ -1,5 +1,3 @@
-Here's a README.md for your PyTorch projects repository, following the structure of your Keras projects README:
-
 # Deep Learning Projects with PyTorch
 
 ## Project 1: Image Classification on Tiny-ImageNet
